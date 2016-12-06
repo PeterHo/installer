@@ -13,7 +13,7 @@ __author__ = 'peter'
 jetbrainsConfigDirList = {
     'Android Studio': '.AndroidStudioPreview2.2',
     'IntelliJ IDEA': '.IntelliJIdea2016.2',
-    'PyCharm': '.PyCharm2016.2',
+    'PyCharm': '.PyCharm2016.3',
     'WebStorm': '.WebStorm2016.2',
     'CLion': '.CLion2016.1',
 }
